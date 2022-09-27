@@ -1,1 +1,1 @@
-https://github.com/richarrrdv/richarrrdv.github.io
+https://fullstack-decal-fa22.github.io/hw2-richarrrdv/
